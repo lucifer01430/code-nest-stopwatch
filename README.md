@@ -17,7 +17,7 @@ A modern, responsive web app to track time with precision. This stopwatch lets y
 ## 📸 Live Demo
 
 🚀 [Try it live!](https://lucifer01430.github.io/code-nest-stopwatch/)
-*(Replace with your actual GitHub Pages / Netlify / Vercel link)*
+
 
 ---
 
